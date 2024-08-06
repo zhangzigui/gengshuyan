@@ -1,1 +1,1 @@
-# gengshuyan
+该Git库已上传到GitHub（https://github.com/zhangzigui/gengshuyan.git）是给耿书妍小朋友捡来的学习资料链接，嘿嘿~~~
